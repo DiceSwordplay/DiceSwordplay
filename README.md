@@ -1,4 +1,5 @@
-### Hi there, this is DiceSwordplay, or AcidDS.
+### Hi there, this is DiceSwordplay, or AcidDS. <img src="assets/catonline.gif">
+
 
  I'm currently working on making pages and maybe games later on. Most of my repos might be forks, because I'm still learning how to code. I'm currently learning HTML/CSS/JS and hoping to start Python after. I also like to write stories, and I'm also going to start other literature forms at a later time. Also, if you like buttons, click the button below.(I'm still working on the site.) Anyway, my website below is super riduculous, and it's not supposed to be professional though. Also, it has my rambling.
  
