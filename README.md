@@ -7,7 +7,7 @@
  The Linkies
 
  
-<a href="https://diceswordplay.github.io/deltarune-web/"><img src="https://github.com/AGuyNamedDan008/Webpage-1990-Colourised/blob/main/graphics/stamps/borgor.gif?raw=true" alt="AcidDS' Site"></a><a href="https://github.com/AcidDS2"><img src="https://github.com/AGuyNamedDan008/Webpage-1990-Colourised/blob/main/graphics/buttons/StardewValleyButton.gif?raw=true" alt="AcidDS' Site"></a>
+<a href="https://diceswordplay.github.io/deltarune-web/"><img src="https://github.com/AGuyNamedDan008/Webpage-1990-Colourised/blob/main/graphics/stamps/borgor.gif?raw=true" alt="AcidDS' Site"></a><a href="https://github.com/AcidDS2"><img src="assets/button.gif" alt="AcidDS' Site"></a>
 
 Stamps 
 
